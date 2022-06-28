@@ -1,2 +1,2 @@
-# khooper128.github.io
-personal gh website
+# personal site
+[khooper128.github.io](http://khooper128.github.io)
